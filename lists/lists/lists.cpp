@@ -14,10 +14,10 @@ int main()
 	first_list.Erase(4);
 
 	std::shared_ptr<Node<int>> first_list_pointer = first_list.root_;
-	while (first_list_pointer.get()->next_) {
+	while (first_list_pointer) {
 		std::cout << first_list_pointer.get()->context<<" ";
 		first_list_pointer = first_list_pointer.get()->next_;
-	}std::cout << first_list_pointer.get()->context << " ";
+	}
 
 	std::cout << "\n";
 
@@ -30,10 +30,10 @@ int main()
 
 	std::shared_ptr<Node<double>> second_list_pointer = second_list.root_;
 
-	while (second_list_pointer.get()->next_) {
+	while (second_list_pointer) {
 		std::cout << second_list_pointer.get()->context << " ";
 		second_list_pointer = second_list_pointer.get()->next_;
-	}std::cout << second_list_pointer.get()->context << " ";
+	}
 	std::cout << "\n";
 
 
@@ -54,10 +54,9 @@ int main()
 	second_queue.Push('C');
 	second_queue.Push('D');
 
-	std::cout << second_queue.Pop();
-	std::cout << second_queue.Pop();
-	std::cout << second_queue.Pop();
-	std::cout << second_queue.Pop();
+	while (!second_queue.Empty()) {
+		std::cout << second_queue.Pop();
+	}std::cout << "\n";
 
 	return 0;
 }

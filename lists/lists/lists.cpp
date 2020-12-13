@@ -1,4 +1,5 @@
 ﻿#include "Header.h"
+#include <string>
 
 int main()
 {
@@ -9,16 +10,16 @@ int main()
 	first_list.Push_back(4);
 	first_list.Push_back(5);
 
-	for (size_t i = 0; i < first_list.Size(); ++i) {
-		std::cout << first_list[i] << " ";
-	}std::cout << "\n";
-
 	first_list.Erase(1);
 	first_list.Erase(4);
 
-	for (size_t i = 0; i < first_list.Size(); ++i) {
-		std::cout << first_list[i] << " ";
-	}std::cout << "\n";
+	std::shared_ptr<Node<int>> first_list_pointer = first_list.root_;
+	while (first_list_pointer.get()->next_) {
+		std::cout << first_list_pointer.get()->context<<" ";
+		first_list_pointer = first_list_pointer.get()->next_;
+	}std::cout << first_list_pointer.get()->context << " ";
+
+	std::cout << "\n";
 
 	DoublyLinkedList<double> second_list;
 	second_list.Push_back(1.5);
@@ -27,27 +28,23 @@ int main()
 	second_list.Push_front(0.09);
 	second_list.Push_front(0.99);
 
-	for (size_t i = 0; i < second_list.Size(); ++i) {
-		std::cout << second_list[i] << " ";
-	}std::cout << "\n";
+	std::shared_ptr<Node<double>> second_list_pointer = second_list.root_;
 
-	second_list.Erase(0.99);
-	second_list.Erase(3.1);
+	while (second_list_pointer.get()->next_) {
+		std::cout << second_list_pointer.get()->context << " ";
+		second_list_pointer = second_list_pointer.get()->next_;
+	}std::cout << second_list_pointer.get()->context << " ";
+	std::cout << "\n";
 
-	if (second_list.Search_element(0.09)) {
-		for (size_t i = 0; i < second_list.Size(); ++i) {
-			std::cout << second_list[i] << " ";
-		}
-	}std::cout << "\n";
 
-	Queue<SinglyLinkedList, const char*> first_queue;
+	Queue<SinglyLinkedList, std::string> first_queue;
 
 	first_queue.Push("Hellow ");
 	first_queue.Push("world");
 	first_queue.Push("!!!");
 
 	while (!first_queue.Empty()) {
-		std::cout << first_queue.Back() << " ";
+		std::cout << first_queue.Pop();
 	}std::cout << "\n";
 
 	Queue<DoublyLinkedList, char> second_queue;
@@ -57,9 +54,10 @@ int main()
 	second_queue.Push('C');
 	second_queue.Push('D');
 
-	while (!second_queue.Empty()) {
-		std::cout << second_queue.Back() << " ";
-	}std::cout << "\n";
+	std::cout << second_queue.Pop();
+	std::cout << second_queue.Pop();
+	std::cout << second_queue.Pop();
+	std::cout << second_queue.Pop();
 
 	return 0;
 }

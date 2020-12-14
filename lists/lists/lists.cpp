@@ -10,14 +10,14 @@ int main()
 	first_list.Push_back(4);
 	first_list.Push_back(5);
 
-	first_list.Erase(1);
-	first_list.Erase(4);
-
-	std::shared_ptr<Node<int>> first_list_pointer = first_list.root_;
+	std::shared_ptr<UnidirectionalNode<int>> first_list_pointer = first_list.root_;
 	while (first_list_pointer) {
 		std::cout << first_list_pointer.get()->context<<" ";
 		first_list_pointer = first_list_pointer.get()->next_;
 	}
+
+	first_list.Erase(1);
+	first_list.Erase(4);
 
 	std::cout << "\n";
 
@@ -28,7 +28,7 @@ int main()
 	second_list.Push_front(0.09);
 	second_list.Push_front(0.99);
 
-	std::shared_ptr<Node<double>> second_list_pointer = second_list.root_;
+	std::shared_ptr<BidirectionalNode<double>> second_list_pointer = second_list.root_;
 
 	while (second_list_pointer) {
 		std::cout << second_list_pointer.get()->context << " ";
@@ -36,26 +36,14 @@ int main()
 	}
 	std::cout << "\n";
 
-
-	Queue<SinglyLinkedList, std::string> first_queue;
-
-	first_queue.Push("Hellow ");
-	first_queue.Push("world");
-	first_queue.Push("!!!");
-
+	Queue<SinglyLinkedList, int> first_queue(first_list);
 	while (!first_queue.Empty()) {
-		std::cout << first_queue.Pop();
+		std::cout << first_queue.Pop() << " ";
 	}std::cout << "\n";
 
-	Queue<DoublyLinkedList, char> second_queue;
-
-	second_queue.Push('A');
-	second_queue.Push('B');
-	second_queue.Push('C');
-	second_queue.Push('D');
-
+	Queue<DoublyLinkedList, double> second_queue(second_list);
 	while (!second_queue.Empty()) {
-		std::cout << second_queue.Pop();
+		std::cout << second_queue.Pop() << " ";
 	}std::cout << "\n";
 
 	return 0;

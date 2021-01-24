@@ -1,0 +1,7 @@
+﻿  LongInt.cpp
+D:\ППвИС\laba1(LongInt)\laba1(LongInt)\LongInt.cpp(483,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\laba1(LongInt)\laba1(LongInt)\LongInt.cpp(637,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\laba1(LongInt)\laba1(LongInt)\LongInt.cpp(692,20): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  laba1(LongInt).vcxproj -> D:\ППвИС\laba1(LongInt)\Debug\laba1(LongInt).exe

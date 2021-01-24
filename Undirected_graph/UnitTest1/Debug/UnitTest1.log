@@ -1,0 +1,37 @@
+﻿  Undirected_graph.cpp
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(251,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(255,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(260,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(264,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(269,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(273,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(22,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(30,46): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(55,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(56,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(117,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(133,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(172,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.cpp(185,21): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest1.cpp
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(251,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(255,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(260,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(264,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(269,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+D:\ППвИС\Undirected_graph\Undirected_graph\Undirected_graph.h(273,25): warning C4806: ==: небезопасная операция: значение типа "bool", приведенное к типу "int", не может равняться данной константе
+  Создание кода...
+     Создается библиотека D:\ППвИС\Undirected_graph\Debug\UnitTest1.lib и объект D:\ППвИС\Undirected_graph\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\ППвИС\Undirected_graph\Debug\UnitTest1.dll

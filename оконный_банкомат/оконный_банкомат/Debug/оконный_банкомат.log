@@ -1,0 +1,131 @@
+﻿  ATM.cpp
+  MyForm.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h(2361,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h(2361,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h(51,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h(51,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h(171,12): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h(172,5): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h(96,1): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h(96,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\excpt.h(17,1): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\excpt.h(17,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdarg.h(16,1): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdarg.h(16,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(17,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(17,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(1116,9): warning C4164: _rotl: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(1117,9): warning C4164: _rotl64: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(1118,9): warning C4164: _rotr: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(1119,9): warning C4164: _rotr64: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6429,9): warning C4164: __int2c: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6932,9): warning C4164: _InterlockedAnd: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6933,9): warning C4164: _InterlockedOr: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6934,9): warning C4164: _InterlockedXor: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6935,9): warning C4164: _InterlockedIncrement: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6936,9): warning C4164: _InterlockedDecrement: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6937,9): warning C4164: _InterlockedExchange: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6938,9): warning C4164: _InterlockedExchangeAdd: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(6939,9): warning C4164: _InterlockedCompareExchange: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7124,9): warning C4164: _InterlockedXor: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7323,9): warning C4164: __cpuidex: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7366,9): warning C4164: __readfsbyte: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7367,9): warning C4164: __readfsword: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7368,9): warning C4164: __readfsdword: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7369,9): warning C4164: __writefsbyte: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7370,9): warning C4164: __writefsword: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7371,9): warning C4164: __writefsdword: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(7438,9): warning C4164: _mm_prefetch: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(19916,9): warning C4164: __fastfail: подставляемая функция не объявлена
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(250,1): error C2814: оконныйбанкомат::MyForm::DPI_AWARENESS_CONTEXT__: собственный тип не может быть вложенным в типе управляемый "оконныйбанкомат::MyForm"
+D:\ППвИС\оконный_банкомат\оконный_банкомат\MyForm.h(15): message : см. объявление "оконныйбанкомат::MyForm"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(252,28): error C3277: невозможно определить неуправляемое перечисление "оконныйбанкомат::MyForm::DPI_AWARENESS" в пределах управляемого "оконныйбанкомат::MyForm"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(252,28): message : используйте "enum class"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(265,35): error C3277: невозможно определить неуправляемое перечисление "оконныйбанкомат::MyForm::DPI_HOSTING_BEHAVIOR" в пределах управляемого "оконныйбанкомат::MyForm"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h(265,35): message : используйте "enum class"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(30,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h(30,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\apiquery2.h(28,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\apiquery2.h(28,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h(23,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h(23,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapifromapp.h(23,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapifromapp.h(23,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\debugapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\debugapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\utilapiset.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\utilapiset.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\handleapi.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\handleapi.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namedpipeapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namedpipeapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\profileapi.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\profileapi.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h(28,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h(28,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ioapiset.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ioapiset.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(23,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h(23,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(41,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(41,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\enclaveapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\enclaveapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi2.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi2.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wow64apiset.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wow64apiset.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namespaceapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namespaceapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\systemtopologyapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\systemtopologyapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processtopologyapi.h(22,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processtopologyapi.h(22,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securityappcontainer.h(27,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securityappcontainer.h(27,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\realtimeapiset.h(21,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\realtimeapiset.h(21,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(73,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(73,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9309,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(9309,14): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(52,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(52,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(44,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(44,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h(24,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnls.h(24,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincon.h(30,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincon.h(30,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\verrsrc.h(133,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\verrsrc.h(133,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winver.h(23,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winver.h(23,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(32,8): error C2059: синтаксическая ошибка: строка
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(32,12): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(32,12): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  Создание кода...

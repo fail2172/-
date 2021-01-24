@@ -52,7 +52,9 @@ public:
 			current_pointer = current_pointer.get()->next_;
 		}
 		if (!current_pointer.get()->next_ && current_pointer.get()->context != context) return;
-
+		if (current_pointer == root_ && !current_pointer.get()->next_) {
+			root_.~shared_ptr();
+		}
 		if (current_pointer == root_) {
 			root_ = current_pointer.get()->next_;
 			current_pointer.~shared_ptr();

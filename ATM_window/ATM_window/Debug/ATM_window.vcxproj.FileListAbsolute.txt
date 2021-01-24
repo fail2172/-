@@ -1,0 +1,6 @@
+D:\ППвИС\ATM_window\ATM_window\Debug\ATM_window.vcxprojAssemblyReference.cache
+D:\ППвИС\ATM_window\ATM_window\Debug\ATMwindow.MyForm.resources
+D:\ППвИС\ATM_window\ATM_window\Debug\ATM_window.vcxproj.GenerateResource.cache
+D:\ППвИС_\ATM_window\ATM_window\Debug\ATM_window.vcxprojAssemblyReference.cache
+D:\ППвИС_\ATM_window\ATM_window\Debug\ATMwindow.MyForm.resources
+D:\ППвИС_\ATM_window\ATM_window\Debug\ATM_window.vcxproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+
+--------------------
+
+Bank : BELARUSBANK
+Number of card : 1658976314863178
+Cardholder name : ARTSIOM SOLOVYEV
+Cash : 200

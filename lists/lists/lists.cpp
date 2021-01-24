@@ -46,5 +46,11 @@ int main()
 		std::cout << second_queue.Pop() << " ";
 	}std::cout << "\n";
 
+	first_list.Push_back(1);
+	first_list.Push_back(2);
+	first_list.Push_back(3);
+	first_list.Push_back(4);
+	first_list.Push_back(5);
+
 	return 0;
 }
